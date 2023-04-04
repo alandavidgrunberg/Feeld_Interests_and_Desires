@@ -5,3 +5,5 @@ https://alandavidgrunberg.github.io/Feeld_Interests_and_Desires/ <br>
 <br>
 Preprocessing with Jupyter Notebook: <br>
 https://github.com/alandavidgrunberg/Feeld_Interests_and_Desires/blob/master/Feeld_Desires_Interests.ipynb <br>
+<br>
+<em>*sample non-representative</em>
